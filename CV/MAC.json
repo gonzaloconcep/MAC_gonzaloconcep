@@ -1,0 +1,318 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Gonzalo",
+      "surnames": "Concepción Megía",
+      "title": "Backend NodeJS Developer",
+      "description": "De la quinta del 95', me considero una persona abierta, comprometida y sincera.  Tanto en mi vida personal como profesional soy una persona que se considera curiosa y con ganas de mejorar y aprender cosas nuevas, ayudar al compañero y escuchar diferentes opiniones. Me considero una persona responsable, divertida, buen compañero y amigo.  Mis hobbies son los deportes, música y viajes. \n\nStay hungry, stay foolish. ",
+      "avatar": {
+        "alt": "Gonzalo-brazos-bw-circular-2.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/9601e9f4-2eea-44db-8419-687ad033a54c_gonzalo-brazos-bw-ci.png"
+      },
+      "location": {
+        "notes": "Seville"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/akuatiko95"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/gonzaloconcep"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/gonzalo-concepcion-megia/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "¿Qué no me gusta? ¡Me gustan hasta las mudanzas!",
+        "fact": "Me gustan muchas cosas, disfruto de cada una de ellas independientemente de la época del año y según me va apeteciendo. Semana Santa, carnaval, navidad, verano, viajar, disfrutar de la tranquilidad en casa, la naturaleza, la playa, el campo, la ciudad, hacer deporte y también verlo, la música, cualquier actividad cultural, ... ¡hasta las mudanzas! Siempre he opinado que una mudanza es un nuevo comienzo y siempre los tomo con actitud positiva, ganas de descubrir y exprimir las nuevas aventuras y oportunidades. "
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Lean Startup",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Eric",
+            "surnames": "Ries",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "Lean UX",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Jeff",
+            "surnames": "Gothelf",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "TarugoConf",
+        "type": "other",
+        "URL": "http://tarugoconf.com",
+        "authors": [
+          {
+            "name": "David",
+            "surnames": "Bonilla",
+            "title": "Author"
+          }
+        ],
+        "summary": "Orgulloso asistente te las tres últimas ediciones, mi primera fue la última presencial hasta ahora, y las dos siguientes en remoto. Mucho aprendizaje, en cuanto a conocimientos, personas contactos y experiencias acumuladas en torno a la conferencia mas awesómica del mundo ;)"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "The Cocktail",
+          "URL": "https://the-cocktail.com"
+        },
+        "roles": [
+          {
+            "name": "NodejS Backend Developer",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Working on a big project with some business involved, my goal here is to offer an API based on NodeJS, NestJS with TypeScript and Jest for testing. Awesome learning of the language, framework but of course lot of interesting things interacting directly with client and other third parts daily. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Confluence",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CoverManager",
+          "URL": "https://www.covermanager.com"
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2020-02-01",
+            "finishDate": "2021-12-01",
+            "challenges": [
+              {
+                "description": "Almost two years in this Sevillana startup starting working in the first months on a React Native application, migrating website to app. After that, and the most of my time there, working on a NodeJS project to solve the problem of automatically answering numerous customer calls. Some interesting integrations with VoIP their parties as Twilio, etc. Dan startup, product first and lot of learnings."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "DialogFlow",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHPMyAdmin",
+                "type": "technology"
+              },
+              {
+                "name": "React Native",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NPM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nest",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniería Informática del Software",
+        "startDate": "2013-09-01",
+        "finishDate": "2019-12-01",
+        "institution": {
+          "name": "Universidad de Sevilla",
+          "description": "Ingeniería Informática del Software por la Universidad de Sevilla. Uno de los cursos completos realizado de Erasmus en la ciudad portuguesa de Aveiro, en la Universidad de Aveiro.",
+          "URL": "https://www.informatica.us.es"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/gonzalo-concepcion-megia/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Git",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "MySQL",
+          "type": "technology"
+        },
+        {
+          "name": "Nest",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
