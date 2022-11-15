@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/9601e9f4-2eea-44db-8419-687ad033a54c_gonzalo-brazos-bw-ci.png"
       },
       "location": {
-        "notes": "Seville"
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Sevilla"
       }
     },
     "relevantLinks": [
@@ -72,7 +74,7 @@
             "title": "Author"
           }
         ],
-        "summary": "Orgulloso asistente te las tres últimas ediciones, mi primera fue la última presencial hasta ahora, y las dos siguientes en remoto. Mucho aprendizaje, en cuanto a conocimientos, personas contactos y experiencias acumuladas en torno a la conferencia mas awesómica del mundo ;)"
+        "summary": "Orgulloso asistente de las cuatro últimas ediciones, mi primera fue la última presencial antes del covid, las dos siguientes en remoto, y la vuelta a casa a La Nave en 2022. Mucho aprendizaje, en cuanto a conocimientos, personas contactos y experiencias acumuladas en torno a la conferencia mas awesómica del mundo ;)"
       }
     ]
   },
@@ -199,25 +201,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React Native",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "TypeScript",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -229,13 +219,25 @@
       },
       {
         "skill": {
-          "name": "Jest",
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Nest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
           "type": "technology"
         }
       }
@@ -312,6 +314,10 @@
           "name": "JAVA",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer"
       ]
     }
   }
