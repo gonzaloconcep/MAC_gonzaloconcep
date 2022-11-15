@@ -89,6 +89,7 @@
           {
             "name": "NodejS Backend Developer",
             "startDate": "2022-01-01",
+            "finishDate": "2022-06-01",
             "challenges": [
               {
                 "description": "Working on a big project with some business involved, my goal here is to offer an API based on NodeJS, NestJS with TypeScript and Jest for testing. Awesome learning of the language, framework but of course lot of interesting things interacting directly with client and other third parts daily. "
