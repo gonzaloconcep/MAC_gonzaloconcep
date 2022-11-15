@@ -82,6 +82,48 @@
     "jobs": [
       {
         "organization": {
+          "name": "Gibobs Allbanks",
+          "URL": "https://www.gibobs.com/"
+        },
+        "roles": [
+          {
+            "name": "NodeJS Backend Developer",
+            "startDate": "2022-06-01",
+            "competences": [
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Nest",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "The Cocktail",
           "URL": "https://the-cocktail.com"
         },
