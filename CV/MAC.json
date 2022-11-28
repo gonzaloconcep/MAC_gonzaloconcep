@@ -247,24 +247,6 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "React Native",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NPM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "TypeScript",
           "type": "technology"
         }
@@ -277,13 +259,19 @@
       },
       {
         "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Nest",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jest",
+          "name": "PostgreSQL",
           "type": "technology"
         }
       }
