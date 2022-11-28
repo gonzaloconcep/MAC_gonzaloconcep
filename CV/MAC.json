@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Sevilla",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Sevilla"
       }
     },
     "relevantLinks": [
@@ -63,6 +62,17 @@
             "title": "Author"
           }
         ]
+      },
+      {
+        "title": "Startup Weekend",
+        "type": "other",
+        "URL": "https://sw.sevillaup.com/",
+        "authors": [
+          {
+            "title": "Author"
+          }
+        ],
+        "summary": "He acudido tanto como participante como miembro del staff de organización. ¡Toda una aventura de aprendizaje y vivencias muy positivas!"
       },
       {
         "title": "TarugoConf",
@@ -236,12 +246,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -353,7 +361,6 @@
         "Backend Developer",
         "Full-stack Developer"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
