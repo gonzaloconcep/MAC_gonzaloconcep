@@ -202,7 +202,7 @@
             "finishDate": "2021-12-01",
             "challenges": [
               {
-                "description": "Almost two years in this Sevillana startup starting working in the first months on a React Native application, migrating website to app. After that, and the most of my time there, working on a NodeJS project to solve the problem of automatically answering numerous customer calls. Some interesting integrations with VoIP their parties as Twilio, etc. Dan startup, product first and lot of learnings."
+                "description": "Dos años trabajando en esta startup sevillana y viviendo el crecimiento y desarrollo de la misma. Al comienzo, estuve trabajando en una app multiplataforma con React Native, migrando el desarrollo web y creandolo desde cero para dispositivos móviles.\n\nA continuación, y durante la mayor parte de mi tiempo, estuve trabajando en un proyecto basado en NodeJs para resolver el problema de recibir y contestar llamadas telefónicas de clientes creando un bot con cierta inteligencia, manteniendo y controlando todo el flujo de la llamada. \n\nAlgunas integraciones interesantes con VoIP que realicé fueron con Twilio y algunas empresas cons servicios propios.\n\nAmbiente startup, enfoque en producto y muchas vivencias muy positivas. Muy buen trabajo en equipo"
               }
             ],
             "competences": [
