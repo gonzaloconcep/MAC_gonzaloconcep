@@ -285,6 +285,16 @@
           "URL": "https://www.informatica.us.es"
         },
         "finishDate": "2019-12-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Máster de Ingeniería Informática",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Universidad de Sevilla",
+          "URL": "https://www.mii.us.es/"
+        }
       }
     ],
     "softSkills": [
@@ -392,6 +402,10 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "Jest",
+        "type": "technology"
+      },
       {
         "name": "Nest",
         "type": "technology"
