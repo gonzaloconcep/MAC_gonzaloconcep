@@ -9,32 +9,18 @@
       "name": "Gonzalo",
       "surnames": "Concepción Megía",
       "title": "Backend Software Developer",
-      "description": "",
+      "description": "De la quinta del 95', me considero una persona abierta, comprometida y sincera.  Tanto en mi vida personal como profesional soy una persona que se considera curiosa y con ganas de mejorar y aprender cosas nuevas, ayudar al compañero y escuchar diferentes opiniones. Me considero una persona responsable, divertida, buen compañero y amigo.  Mis hobbies son los deportes, música y viajes. \n\nStay hungry, stay foolish. ",
       "avatar": {
-        "alt": "Gonzalo-brazos-bw-circular-2.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/9601e9f4-2eea-44db-8419-687ad033a54c_gonzalo-brazos-bw-ci.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/28/9601e9f4-2eea-44db-8419-687ad033a54c_gonzalo-brazos-bw-ci.png",
+        "alt": "Gonzalo-brazos-bw-circular-2.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJkWK-FBFsEg0RSFb-HGIY8DQ)",
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Sevilla",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Sevilla"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/gonzaloconcep"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/gonzaloconcep"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/gonzalo-concepcion-megia/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "¿Qué no me gusta? ¡Me gustan hasta las mudanzas!",
@@ -51,8 +37,7 @@
             "surnames": "Ries",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "Lean UX",
@@ -63,34 +48,26 @@
             "surnames": "Gothelf",
             "title": "Author"
           }
-        ],
-        "summary": ""
+        ]
       },
       {
         "title": "Startup Weekend",
         "type": "other",
         "URL": "https://sw.sevillaup.com/",
-        "authors": [
-          {
-            "name": "",
-            "surnames": "",
-            "title": "Author"
-          }
-        ],
         "summary": "He acudido tanto como participante como miembro del staff de organización. ¡Toda una aventura de aprendizaje y vivencias muy positivas!"
       },
       {
         "title": "TarugoConf",
         "type": "other",
         "URL": "http://tarugoconf.com",
+        "summary": "Orgulloso asistente de las cuatro últimas ediciones, mi primera fue la última presencial antes del covid, las dos siguientes en remoto, y la vuelta a casa a La Nave en 2022. Mucho aprendizaje, en cuanto a conocimientos, personas contactos y experiencias acumuladas en torno a la conferencia mas awesómica del mundo ;)",
         "authors": [
           {
             "name": "David",
             "surnames": "Bonilla",
             "title": "Author"
           }
-        ],
-        "summary": "Orgulloso asistente de las cuatro últimas ediciones, mi primera fue la última presencial antes del covid, las dos siguientes en remoto, y la vuelta a casa a La Nave en 2022. Mucho aprendizaje, en cuanto a conocimientos, personas contactos y experiencias acumuladas en torno a la conferencia mas awesómica del mundo ;)"
+        ]
       }
     ]
   },
@@ -256,27 +233,15 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "Jest",
@@ -291,7 +256,19 @@
       },
       {
         "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -302,11 +279,31 @@
         "degreeAchieved": true,
         "name": "Ingeniería Informática del Software",
         "startDate": "2013-09-01",
-        "finishDate": "2019-12-01",
         "institution": {
           "name": "Universidad de Sevilla",
           "description": "Ingeniería Informática del Software por la Universidad de Sevilla. Uno de los cursos completos realizado de Erasmus en la ciudad portuguesa de Aveiro, en la Universidad de Aveiro.",
           "URL": "https://www.informatica.us.es"
+        },
+        "finishDate": "2019-12-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -315,8 +312,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/gonzalo-concepcion-megia/"
+          "URL": "https://www.linkedin.com/in/gonzalo-concepcion-megia/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/gonzaloconcep",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/gonzaloconcep",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "gonconmeg@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "616853622",
+          "countryCode": "+34"
         }
       ]
     },
@@ -375,5 +389,29 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Un sitio donde el aprendizaje, el trabajo en equipo, la comunicación y el buen rollo vayan de la mano con total honestidad, responsabilidad y una buena sonrisa",
+    "goodPractices": "Me considero un team player, muestro interés por ayudar a los compañeros y comprender a qué retos nos estamos enfrentando en el equipo en general. \n\nMe gusta conocer el producto a nivel de funcionalidad, y previamente conocer qué problema vamos a resolver desde el punto de vista del cliente. El producto a desarrollar será mas efectivo si conozco con anticipación cómo se usará y por qué. \n\nDesde mi punto de vista del backend, me gusta estar en constante comunicación con los compañeros de front y mobile para tratar de darles un acuerdo de interfaz y explicación anticipada de cómo va a funcionar el siguiente desarrollo que pase por mis manos, así su trabajo será más sencillo y podremos trabajar en paralelo con menos bloqueos y mayor productividad.\n\nMe siento muy cómodo trabajando con Scrum y metodologías ágiles, equipos multidisciplinares divididos en squads o equipos un poco más grandes\n\nA nivel mas técnico, me gusta documentar cuando es necesario, tanto a nivel de código como de procesos o proyecto. El desarrollo de APIs con NodeJS y NestJS como framework junto con TDD con Jest está entre mis puntos fuertes. ¡El refactoring con una base de test es siempre más sencillo y efectivo!\n\nTengo interés por las arquitecturas clean y hexagonales.\n\nCreo firmemente en la mejora continua, crítica constructiva de manera bidireccional, tanto 1on1 como a nivel de equipo. Propongo nuevas ideas y siempre puedes preguntarme por mi punto de vista u opinión. ¡Siempre aprendiendo!",
+    "bookmarks": [
+      {
+        "name": "Lean Startup"
+      },
+      {
+        "name": "Lean UX"
+      },
+      {
+        "name": "Startup Weekend"
+      },
+      {
+        "name": "TarugoConf"
+      }
+    ]
   }
 }
