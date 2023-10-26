@@ -69,6 +69,20 @@
           }
         ]
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/gonzalo-concepcion-megia/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/gonzaloconcep"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/gonzaloconcep"
+      }
     ]
   },
   "experience": {
