@@ -90,6 +90,10 @@
       {
         "organization": {
           "name": "Arca",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/13/51ac54ee-d514-424e-bf97-5d904fa98281_arcalogo.png",
+            "alt": "ArcaLogo.png"
+          },
           "URL": "https://arcadigital.app/"
         },
         "roles": [
