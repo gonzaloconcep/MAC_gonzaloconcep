@@ -96,6 +96,7 @@
           {
             "name": "NodeJS Backend Developer",
             "startDate": "2022-06-01",
+            "finishDate": "2024-03-01",
             "challenges": [
               {
                 "description": "Desarrollo de API con Typescript, NodeJS y NestJS. Jest para los test. PostgreSQL como BBDD.\n\nMigración y creación de nuevos microservicios con monorepo en NestJS.\n\nTrabajo con RabbitMQ para la gestión de colas."
