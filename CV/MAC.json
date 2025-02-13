@@ -157,6 +157,10 @@
       {
         "organization": {
           "name": "Gibobs Allbanks",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/13/68a8d6cb-7fb1-4206-b3fd-97f817ccc1a7_gibobs.png",
+            "alt": "gibobs.png"
+          },
           "URL": "https://www.gibobs.com/"
         },
         "roles": [
