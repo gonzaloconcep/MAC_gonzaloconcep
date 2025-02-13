@@ -89,6 +89,69 @@
     "jobs": [
       {
         "organization": {
+          "name": "Arca",
+          "URL": "https://arcadigital.app/"
+        },
+        "roles": [
+          {
+            "name": "Tech lead",
+            "startDate": "2024-03-01",
+            "challenges": [
+              {
+                "description": "Mi primera experiencia emprendiendo junto a mis socios. En Arca ayudamos a empresas a implementar planes de pensiones de empleo. Gracias a nuestra plataforma, logramos que el proceso sea FÁCIL, RÁPIDO y DIGITAL para las empresas. Nos encargamos de la parte administrativa y de resolver cualquier duda tanto a la empresa como a los empleados.\n\nLos usuarios podrán ver de forma transparente su ahorro y ventajas fiscales, así como simular y entender cuál sería una buena planificación financiera personalizada para cada uno de ellos.\n\n¡Me encargo de liderar toda la parte de tecnología y de construir el producto!"
+              }
+            ],
+            "competences": [
+              {
+                "name": "ChartJS",
+                "type": "technology"
+              },
+              {
+                "name": "ChatGPT",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Notion",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Slack",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "nestJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Gibobs Allbanks",
           "URL": "https://www.gibobs.com/"
         },
