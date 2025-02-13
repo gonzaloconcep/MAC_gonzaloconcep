@@ -261,6 +261,10 @@
       {
         "organization": {
           "name": "CoverManager",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/02/13/40a5438e-56c8-46e3-b7b1-70d181cb343a_covermanager.png",
+            "alt": "covermanager.png"
+          },
           "URL": "https://www.covermanager.com"
         },
         "roles": [
